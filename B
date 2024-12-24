@@ -1,9 +1,9 @@
 {
   "urls": [
     { 	
-			"url":"https://gitlab.com/recha/TVBOX/-/raw/main/recha-media.json",
-			"name":"🎭VOD🎭"
-		},
+	"url":"https://gitlab.com/recha/TVBOX/-/raw/main/recha-media.json",
+	"name":"🎭VOD🎭"
+	},
     {
       "url": "http://ttkx.cc:55/天天开心",
       "name": "cc开心软件❤天天开心"
