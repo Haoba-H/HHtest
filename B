@@ -1,0 +1,92 @@
+{
+  "urls": [
+    {
+      "url": "http://ttkx.cc:55/天天开心",
+      "name": "cc开心软件❤天天开心"
+    },
+    {
+      "url": "http://kxrj.site:55/天天开心",
+      "name": "[备]开心软件❤天天开心"
+    },
+    {
+      "url": "http://rihou.cc:55/天天开心",
+      "name": "55天天开心❤天天开心"
+    },
+    {
+      "url": "https://12448.kstore.space/baipiao/tvbox/白嫖4k.json",
+      "name": "🥬白嫖4k❤天天开心"
+    },
+    {
+      "url": "http://我不是.摸鱼儿.com",
+      "name": "🐟摸鱼\"❤天天开心"
+    },
+    {
+      "url": "https://9877.kstore.space/fourds/movie.json",
+      "name": "😎潇洒❤天天开心"
+    },
+    {
+      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌",
+      "name": "欧歌❤天天开心"
+    },
+    {
+      "url": "http://www.fish2018.us.kg/z/fongmi.json",
+      "name": "蜜蜂❤天天开心"
+    },
+    {
+      "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
+      "name": "道长❤天天开心"
+    },
+    {
+      "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
+      "name": "pg路线❤天天开心"
+    },
+    {
+      "url": "https://yydf.540734621.xyz/qq/yydf2024.json",
+      "name": "业余打发❤天天开心"
+    },
+    {
+      "url": "https://ddzb.fun/dgmusic/api.json",
+      "name": "dg音乐❤天天开心"
+    },
+    {
+      "url": "https://gitee.com/ltby1/blue-sky-education/raw/master/蓝天白云教育.json",
+      "name": "蓝天白云教育❤天天开心"
+    },
+    {
+      "url": "http://www.wya6.cn/tv/yc.json",
+      "name": "无意❤天天开心"
+    },
+    {
+      "url": "http://www.饭太硬.com/tv",
+      "name": "饭太坚硬❤天天开心"
+    },
+    {
+      "url": "http://肥猫.live",
+      "name": "肥猫不肥❤天天开心"
+    },
+    {
+      "url": "http://box.ufuzi.com/tv/qq/%e7%9f%ad%e5%89%a7%e9%a2%91%e9%81%93/api.json",
+      "name": "短剧合集❤天天开心"
+    },
+    {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/xyqtvbox.json",
+      "name": "香雅情深❤天天开心"
+    },
+    {
+      "url": "http://xhww.fun/小米/demo.json",
+      "name": "小米❤天天开心"
+    },
+    {
+      "url": "http://tvbox.王二小放牛娃.top",
+      "name": "王二小放牛娃❤天天开心"
+    },
+    {
+      "url": "https://d.kstore.dev/download/4684/xxdv.json",
+      "name": "蓝色影视❤天天开心"
+    },
+    {
+      "url": "http://tt.iitvba.com/bata/老年戏曲.json",
+      "name": "老年戏曲❤天天开心"
+    }
+  ]
+}
