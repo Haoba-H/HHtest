@@ -21,13 +21,13 @@
       "type_id": "en"
     },
     {
-			"type_name": "网红翻唱",
-			"type_id": "网红翻唱"
-		},
+	"type_name": "网红翻唱",
+	"type_id": "网红翻唱"
+	},
     {
-			"type_name": "快手音乐",
-			"type_id": "快手音乐"
-		},
+		"type_name": "快手音乐",
+		"type_id": "快手音乐"
+	},
 		{
 			"type_name": "酷狗音乐",
 			"type_id": "酷狗音乐"
@@ -41,13 +41,22 @@
 			"type_id": "QQ音乐"
 		},
 		{
-      "type_name": "中文podcast",
-      "type_id": "中文podcast"
+      "type_name": "podcast",
+      "type_id": "podcast"
     },
     {
       "type_name": "老高與小茉",
       "type_id": "老高與小茉"
     },
+	  {
+      "type_name": "自说自话的总裁",
+      "type_id": "自说自话的总裁"
+    },
+ {
+      "type_name": "鬼畜",
+      "type_id": "鬼畜"
+    },
+
     {
       "type_name": "国语金曲",
       "type_id": "国语歌曲合集"
