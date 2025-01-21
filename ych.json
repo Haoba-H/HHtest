@@ -1,5 +1,13 @@
 {
   "classes": [
+	  {
+      "type_name": "電影",
+      "type_id": "電影"
+    },
+	  {
+      "type_name": "電視劇",
+      "type_id": "電視戲"
+    },
     {
       "type_name": "抖音熱歌",
       "type_id": "抖音熱歌"
