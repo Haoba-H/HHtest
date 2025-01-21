@@ -1,13 +1,5 @@
 {
   "classes": [
-	  {
-      "type_name": "電影",
-      "type_id": "電影"
-    },
-	  {
-      "type_name": "電視劇",
-      "type_id": "電視戲"
-    },
     {
       "type_name": "抖音熱歌",
       "type_id": "抖音熱歌"
@@ -19,10 +11,6 @@
     {
       "type_name": "J-pop",
       "type_id": "J-pop"
-    },
-    {
-      "type_name": "EHPMusic",
-      "type_id": "EHPMusic合集"
     },
     {
       "type_name": "en",
@@ -48,23 +36,6 @@
 			"type_name": "QQ音乐",
 			"type_id": "QQ音乐"
 		},
-		{
-      "type_name": "podcast",
-      "type_id": "podcast"
-    },
-    {
-      "type_name": "老高與小茉",
-      "type_id": "老高與小茉"
-    },
-	  {
-      "type_name": "自说自话的总裁",
-      "type_id": "自说自话的总裁"
-    },
- {
-      "type_name": "鬼畜",
-      "type_id": "鬼畜"
-    },
-
     {
       "type_name": "国语金曲",
       "type_id": "国语歌曲合集"
