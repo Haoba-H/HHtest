@@ -13,6 +13,15 @@
 		"quickSearch": 1
 	},
 	{
+     		 "key": "WexkuihuatvGuard",
+    		  "name": "💥葵花┃影视💥",
+    		  "type": 3,
+		  "jar": ".wex.txt",
+    		  "api": "csp_WexkuihuatvGuard",
+    		  "searchable": 1,
+     		 "changeable": 1
+  	  },
+	{
 		"key": "财气❤️1080",
 		"name": "财气❤️1080",
 		"type": 1,
