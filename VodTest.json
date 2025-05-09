@@ -1,5 +1,5 @@
 {
-	"spider": ".fm.jar",
+	"spider": "./fm.jar",
 	"logo": "https://i.makeagif.com/media/8-29-2024/hV0Nqy.gif",
 	"wallpaper": "https://picsum.photos/1080/",
 	"sites": [
@@ -26,7 +26,7 @@
 		"key": "WexkuihuatvGuard",
 		"name": "💥葵花┃影视💥",
 		"type": 3,
-		"jar": ".wex.txt",
+		"jar": "./wex.txt",
 		"api": "csp_WexkuihuatvGuard",
 		"searchable": 1,
 		"changeable": 1
