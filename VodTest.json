@@ -1,0 +1,160 @@
+{
+	"spider": "https://github.com/Haoba-H/HHtest/raw/refs/heads/main/fm.jar",
+	"logo": "https://i.makeagif.com/media/8-29-2024/hV0Nqy.gif",
+	"wallpaper": "https://picsum.photos/1080/",
+	"sites": [
+	{
+		"key": "1080zyk",
+		"name": "❤️1080ZYK",
+		"type": 1,
+		"api": "https://api.1080zyku.com/inc/api_mac10.php",
+		"jar": "https://github.com/Haoba-H/HHtest/raw/refs/heads/main/xyqxbpq.jar",			
+		"searchable": 1,
+		"quickSearch": 1
+	},
+	{
+      "key": "菲儿影视",
+      "name": "菲儿｜APP",
+      "type": 3,
+	  "jar": "https://github.com/Haoba-H/HHtest/raw/refs/heads/main/spider.jar",
+      "api": "csp_AppFerr",
+      "ext": {
+        "url": "https://appcms.freehd.vip",
+        "dataKey": "be5348dfb0c3c283",
+        "dataIv": "5f5449dd14313217"
+      }
+    },
+	{
+      "key": "彼岸",
+      "name": "彼岸｜APP",
+      "type": 3,
+	  "jar": "https://github.com/Haoba-H/HHtest/raw/refs/heads/main/spider.jar",
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://172.247.44.217:30011",
+        "dataKey": "JLa1oRdL6+eK7@M)",
+        "dataIv": "JLa1oRdL6+eK7@M)",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+	{
+      "key": "木叶",
+      "name": "木叶｜APP",
+      "type": 3,
+	  "jar": "https://github.com/Haoba-H/HHtest/raw/refs/heads/main/spider.jar",
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://46.203.125.54:2663",
+        "dataKey": "RuN9LRvwTRgpQnpK",
+        "dataIv": "RuN9LRvwTRgpQnpK",
+        "deviceId": "",
+        "version": "547"
+      }
+    },
+    {
+      "key": "米兔",
+      "name": "米兔｜APP",
+      "type": 3,
+	  "jar": "https://github.com/Haoba-H/HHtest/raw/refs/heads/main/spider.jar",
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.zjc.app",
+        "dataKey": "ab4e9a421675f14b",
+        "dataIv": "ab4e9a421675f14b",
+        "deviceId": "",
+        "version": "442"
+      }
+    },
+    {
+      "key": "光速",
+      "name": "光速｜APP",
+      "type": 3,
+	  "jar": "https://github.com/Haoba-H/HHtest/raw/refs/heads/main/spider.jar",
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://c8k2n5l0i9s8b2m1jj8k2x2l9ff68.ydysapi.cfd:27899",
+        "dataKey": "k9o3p2c8b7m3z0o8",
+        "dataIv": "k9o3p2c8b7m3z0o8",
+        "deviceId": "2f085931bcbd83a2bbc8ba1fc66243cd2",
+        "version": "112"
+      }
+    },
+    {
+      "key": "人人",
+      "name": "人人｜APP",
+      "type": 3,
+	  "jar": "https://github.com/Haoba-H/HHtest/raw/refs/heads/main/spider.jar",
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://svip1.fun",
+        "dataKey": "laodiesdawsswasd",
+        "dataIv": "laodiesdawsswasd",
+        "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
+        "version": "105"
+      }
+    },
+	{
+      "key": "大玩",
+      "name": "大玩｜4K弹幕",
+      "type": 3,
+	  "jar": "https://github.com/Haoba-H/HHtest/raw/refs/heads/main/spider.jar",
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/dawo.json"
+    },
+    {
+      "key": "虎斑",
+      "name": "虎斑｜4K弹幕",
+      "type": 3,
+	  "jar": "https://github.com/Haoba-H/HHtest/raw/refs/heads/main/spider.jar",
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/hb.json"
+    },
+	{
+      "key": "QD4K",
+      "name": "QD影视｜影视",
+      "type": 3,
+	  "jar": "https://github.com/Haoba-H/HHtest/raw/refs/heads/main/spider.jar",
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://172.83.156.150:1010/api.php/app/"
+    },
+	{
+		"key": "财气❤️1080",
+		"name": "财气❤️1080",
+		"type": 1,
+		"api": "https://api.zeqaht.com/api.php/provide/vod/",
+		"jar": "https://github.com/Haoba-H/HHtest/raw/refs/heads/main/xyqxbpq.jar",	
+		"searchable": 1,
+        "changeable": 1,
+        "quickSearch": 1
+	},
+	{
+		"key": "csp_Bili短剧",
+		"name": "B站短剧",
+		"api": "csp_Bili",
+		"type": 3,
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"jar": "https://raw.liucn.cc/box/libs/jar/XYQH.jar",
+		"ext": "https://raw.liucn.cc/box/libs/xyq/Bili短剧.json"
+	}
+		  ]
+	
+}
