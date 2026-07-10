@@ -15,13 +15,13 @@
 		"key": "Uvod",
 		"name": "❤️Uvod",
 		"type": 3,
-		"api": "./PY/UB.py",
+		"api": "./PY/Uvod.py",
 		"searchable": 1,
 		"quick搜索": 1,
 		"filterable": 1,
 		"order_num": 0,
 		"style": {"type": "rect"},
-		"ext": ""
+		"ext": "true"
     },
 	{
 		"key": "csp_ipianba",
@@ -72,7 +72,7 @@
 		"jar": "./xyqxbpq.jar",
 		"ext": "https://raw.liucn.cc/box/libs/xyq/Bili短剧.json"
 	}
-	],
+	]，
 	"parses": [
 		{"name": "陆游4k1","type": 1,"url": "http://chaoqianys.top:98/api/jsonindex.php/?key=9BinSPw8lGc9OVvoBa&url=",
 		"ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺","youku", "优酷", "mgtv", "芒果", "imgo","letv", "乐视", "pptv", "PPTV", "sohu","bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}},
@@ -85,7 +85,7 @@
 		{"name": "牛牛2","type": 1,"url": "https://zy.qiaoji8.com/xiafan.php?url=",
 		"ext": {"flag": ["QD4K", "iyf", "duanju", "gzcj", "GTV", "GZYS", "weggz" ,"Ace"],"header": {"User-Agent": "okhttp/4.9.1"}}},
 		{"name": "4k解析","url": "http://chaoqianys.top:98/api/?key=DHZNz2KxkQ6szAWfJo&url=",
-		"type": "1","status": "normal","type_text": "Type 1","status_text": "正常"},
+		"type": "1"，"status": "normal","type_text": "Type 1","status_text": "正常"},
 		{"name": "七智", "type": 3, "url": "https://jx.2s0.cn/player/?url="},
 		{"name": "技巧1","type": 1,"url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
 		"ext": {"flag": ["qq", "腾讯", "腾云驾雾", "腾 讯", "qiyi","爱奇艺", "爱 奇 艺", "奇艺", "youku", "优酷","优 酷", "mgtv", "芒果", "芒 果T V", "imgo","letv", "乐视", "乐 视", "咪 咕 视 频" , "pptv","PPTV", "C N T V" , "sohu", "bilibili", "哔哩哔哩","哔 哩 哔 哩" , "哔哩"]}},
