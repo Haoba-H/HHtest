@@ -27,7 +27,7 @@
 		"key": "csp_ipianba",
 		"name": "🌻技安影视🌻",
 		"type": 3,
-		"jar": "./xyqxbpq.jar",
+		"jar": "xyqxbpq.jar",
 		"api": "csp_XBPQ",
 		"searchable": 1,
 		"quickSearch": 1,
@@ -40,7 +40,7 @@
 		"key": "csp_XBPQ_哒哇",
 		"name": "🌻哒哇影视🌻",
 		"type": 3,
-		"jar": "./xyqxbpq.jar",
+		"jar": "xyqxbpq.jar",
 		"api": "csp_XBPQ",
 		"searchable": 1,
 		"quickSearch": 1,
@@ -53,14 +53,14 @@
 		"key": "木易影画",
 		"name": "🌻影画无广🌻",
 		"type": 3,
-		"jar": "./xyqxbpq.jar",
+		"jar": "xyqxbpq.jar",
 		"api": "csp_XBPQ",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": {"分类url": "https://movie.leohi.top/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
 		"分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录片$16#预告$32#解说$33#短剧$34#赛事$35"}
-	},
+	}，
 	{
 		"key": "csp_Bili短剧",
 		"name": "B站短剧",
@@ -69,7 +69,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"jar": "./xyqxbpq.jar",
+		"jar": "xyqxbpq.jar",
 		"ext": "https://raw.liucn.cc/box/libs/xyq/Bili短剧.json"
 	}
 	],
