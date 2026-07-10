@@ -60,7 +60,7 @@
 		"filterable": 1,
 		"ext": {"分类url": "https://movie.leohi.top/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
 		"分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录片$16#预告$32#解说$33#短剧$34#赛事$35"}
-	},
+	}，
 	{
 		"key": "csp_Bili短剧",
 		"name": "B站短剧",
@@ -72,7 +72,7 @@
 		"jar": "./xyqxbpq.jar",
 		"ext": "https://raw.liucn.cc/box/libs/xyq/Bili短剧.json"
 	}
-	]，
+	]
 	"parses": [
 		{"name": "陆游4k1","type": 1,"url": "http://chaoqianys.top:98/api/jsonindex.php/?key=9BinSPw8lGc9OVvoBa&url=",
 		"ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺","youku", "优酷", "mgtv", "芒果", "imgo","letv", "乐视", "pptv", "PPTV", "sohu","bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}},
