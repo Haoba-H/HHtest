@@ -72,7 +72,7 @@
 		"jar": "./xyqxbpq.jar",
 		"ext": "https://raw.liucn.cc/box/libs/xyq/Bili短剧.json"
 	}
-	]
+	],
 	"parses": [
 		{"name": "陆游4k1","type": 1,"url": "http://chaoqianys.top:98/api/jsonindex.php/?key=9BinSPw8lGc9OVvoBa&url=",
 		"ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺","youku", "优酷", "mgtv", "芒果", "imgo","letv", "乐视", "pptv", "PPTV", "sohu","bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}},
